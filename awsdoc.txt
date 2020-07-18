@@ -1,0 +1,19 @@
+Hi there,
+
+Thank you for your email.
+
+I am sorry for any concern these unexpected charges may have caused.
+
+Upon reviewing your account, I found that the charges are related to RDS storage which exceeded the scope of our Free Tier usage limits, therefore accruing charges.
+
+However, I can that confirm the resources have already been deleted which has stopped additional charges from accruing. Therefore, I’m pleased to inform you that as a one time
+ exception we’ve approved a billing adjustment of $0.16 for the usage charges on your June bill.
+
+The billing adjustment has been processed in the following form:
+
+* June bill ==> Waived the amount of $0.16 from your account.
+
+***It is important to note that our Free Tier promotion allows you to test some AWS services free-of-charge within certain usage limits, and is automatically available to 
+new AWS customers for 12 months. When your application use exceeds what's covered by the Free Tier, you simply pay standard, pay-as-you-go service rates.
+
+For more details, you can review the AWS Free Usage Tier FAQs, along with the Free Tier "Getting Started" guide:
